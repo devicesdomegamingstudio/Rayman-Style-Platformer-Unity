@@ -5,12 +5,14 @@ Unity Game Developer | Islamabad
 - Language: C#
 - Genre: 3D Platformer / Adventure
 
-Features:
+**Features:**
 - Player movement & double jump
 - Coin collection system
 - Mobile optimized
 
-Developer: Devices Dome
-LinkedIn: linkedin.com/in/devicesdomegamedev
-## Game Preview
-![Game](image_20260923_233739.jpg)
+**Developer:** Devices Dome  
+**LinkedIn:** linkedin.com/in/devicesdomegamedev
+
+---
+### 🎮 Game Preview
+![Game Screenshot](image_20260923_233739.jpg)
