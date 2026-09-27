@@ -12,3 +12,5 @@ Features:
 
 Developer: Devices Dome
 LinkedIn: linkedin.com/in/devicesdomegamedev
+## Game Preview
+![Game](image_20260923_233739.jpg)
