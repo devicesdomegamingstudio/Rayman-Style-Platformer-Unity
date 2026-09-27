@@ -1,2 +1,14 @@
-# Rayman-Style-Platformer-Unity
-A 3D platformer game inspired by Rayman Legends made in Unity &amp; C#
+# Rayman Style 3D Platformer - Unity
+
+Unity Game Developer | Islamabad
+- Engine: Unity 3D
+- Language: C#
+- Genre: 3D Platformer / Adventure
+
+Features:
+- Player movement & double jump
+- Coin collection system
+- Mobile optimized
+
+Developer: Devices Dome
+LinkedIn: linkedin.com/in/devicesdomegamedev
